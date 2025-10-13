@@ -15,8 +15,7 @@
 ### 个人绘画作品 ੭ ᐕ)੭🐱：
 > 猫猫
 
-<img align="center" src="image/迷迭猫猫.png" alt="个人绘画作品" width="40%">
-<img align="center" src="image/Toffee Meow.png" alt="个人绘画作品" width="40%">
+<img align="center" src="image/迷迭猫猫.png" alt="个人绘画作品" width="45%"> <img align="center" src="image/Toffee Meow.png" alt="个人绘画作品" width="45%">
 
 <!--
 **Toffee-Meow/Toffee-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
