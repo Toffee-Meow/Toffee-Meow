@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/@Toffee-Meow?name=Toffee-Meow&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name" />
 
-## Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
+# Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
 #### 一个热爱二维、三维相关设计制作的创作者✨
 #### 喜欢平面排版、视频设计、三维渲染和TA技术美术🌱
 #### 目前特别喜欢研究TA技术美术，对角色渲染相关的TA技术尤为钟爱 ദ്ദി˶>𖥦<)✧🔥
@@ -15,8 +15,8 @@
 ### 个人绘画作品 ੭ ᐕ)੭🐱：
 > 猫猫
 
-<img align="center" src="image/迷迭猫猫.png" alt="个人绘画作品" width="49%">
-<img align="center" src="image/Toffee Meow.png" alt="个人绘画作品" width="49%">
+<img align="center" src="image/迷迭猫猫.png" alt="个人绘画作品" width="45%">
+<img align="center" src="image/Toffee Meow.png" alt="个人绘画作品" width="45%">
 
 <!--
 **Toffee-Meow/Toffee-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
