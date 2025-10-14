@@ -3,13 +3,13 @@
 </p>
 
 # Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
-- #### 一个热爱二维、三维相关设计制作的创作者✨
-- #### 喜欢平面排版、视频设计、三维渲染和TA技术美术🌱
-<p>
-<img align="right" src="image/芙芙-alpha.png" alt="fufu" title="fufu" width="25%" />
-</p>
+- **一个热爱二维、三维相关设计制作的创作者**✨
 
-- #### 目前特别喜欢研究TA技术美术，对角色三渲二相关的TA技术尤为钟爱 ദ്ദി˶>𖥦<)✧🔥
+- **喜欢平面排版、视频设计、三维渲染和TA技术美术**🌱
+<img align="right" src="image/芙芙-alpha.png" alt="fufu" title="fufu" width="25%" />
+
+- **目前特别喜欢研究TA技术美术，对角色三渲二相关的TA技术尤为钟爱 ദ്ദി˶>𖥦<)✧**🔥
+
 <p>
 <img src="https://github.com/user-attachments/assets/09845430-69f0-407a-a0bf-253f381d851d" alt="cat" title="cat gif" width="80" />
 <a href="https://github.com/Toffee-Meow"><img src="https://img.shields.io/badge/GitHub-Toffee_Meow-grey?logo=github&labelColor=181717" alt="GitHub" title="GitHub profile" /></a>
@@ -30,7 +30,7 @@
 </p>
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
-- #### 远程code仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader code⭐
+- **远程code仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader code**⭐
 
 ### 技能爱好 >ᴗoಣ😍：
 <p>
