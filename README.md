@@ -6,7 +6,7 @@
 - **一个热爱二维、三维相关设计制作的创作者**✨
 
 - **喜欢平面排版、视频设计、三维渲染和TA技术美术**🌱
-<img align="right" src="image/芙芙-alpha.png" alt="fufu" title="fufu" width="25%" />
+<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%8A%99%E8%8A%99-alpha.png" alt="fufu" title="fufu" width="25%" />
 
 - **目前特别喜欢研究TA技术美术，对角色三渲二相关的TA技术尤为钟爱 ദ്ദി˶>𖥦<)✧**🔥
 
@@ -26,7 +26,7 @@
 -->
 </p>
 <p>
-<img align="right" src="image/迷迭猫猫-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="38%" />
+<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%BF%B7%E8%BF%AD%E7%8C%AB%E7%8C%AB-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="38%" />
 </p>
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
