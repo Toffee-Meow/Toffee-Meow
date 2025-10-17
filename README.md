@@ -3,6 +3,13 @@
 </p>
 
 # Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
+
+<p>
+<h3><a href="https://github.com/Toffee-Meow"><img align="left" src="image/hey.svg" alt="Hey，l'm Toffee Meow" title="动态文字"></a></h3>
+</p>
+
+<br>
+
 - **一个热爱二维、三维相关设计制作的创作者**✨
 
 - **喜欢平面排版、视频设计、三维渲染和TA技术美术**🌱
@@ -26,7 +33,7 @@
 -->
 </p>
 <p>
-<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%BF%B7%E8%BF%AD%E7%8C%AB%E7%8C%AB-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="38%" />
+<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%BF%B7%E8%BF%AD%E7%8C%AB%E7%8C%AB-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="36%" />
 </p>
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
@@ -41,14 +48,15 @@
 </p>
 
 ### 绘画作品 ੭ ᐕ)੭🐱：
-<p>
-<blockquote>
-  阔爱猫猫头
-</blockquote>
-</p>
+
 <p>
 <details>
-    <summary><b>猫猫头୧₍˄·͈༝·͈˄₎୨<b></summary>
+    <summary><b>猫猫头ᗜ𖥦ᗜ<b></summary>
+    <p>
+    <blockquote>
+      阔爱猫猫头
+    </blockquote>
+    </p>
     <p align="center">
     <img src="image/迷迭猫猫.png" alt="迷迭猫猫" title="迷迭猫猫" width="45%" /> <img src="image/Toffee Meow.png" alt="Toffee Meow" title="Toffee Meow" width="45%" />
     </p>
