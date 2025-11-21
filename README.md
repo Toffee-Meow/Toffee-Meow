@@ -37,7 +37,8 @@
 </p>
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
-- **远程code仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader code**⭐
+- **📜 [Shader魔法书](https://github.com/Toffee-Meow/Shader-Grimoire) 仓库持续更新中updating……**
+  - **该项目作为个人🍭远程代码仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader和自定义渲染管线**⭐
 
 ### 技能爱好 >ᴗoಣ😍：
 <p>
