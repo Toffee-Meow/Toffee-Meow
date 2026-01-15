@@ -63,3 +63,13 @@
     </p>
 </details>
 </p>
+
+### 贪吃蛇 (｢･ω･)｢🐍：
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake.svg" alt="Github个人主页贪吃蛇动画" title="Github个人主页贪吃蛇动画" />
+  </picture>
+</div>
