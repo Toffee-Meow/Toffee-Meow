@@ -27,7 +27,7 @@
 
 ### Github计分表⚡：
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="Toffee-Meow's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="Toffee-Meow's GitHub stats" /></a>
 <!--
 [![Toffee-Meow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
