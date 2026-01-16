@@ -1,16 +1,16 @@
 name: generate snake animation
 
 on:
-  # 每周日的【北京时间 0 点】自动执行一次（每周1次，固定周期）
+  # 每天的【UTC时间 0点】自动执行一次
   schedule:
-    - cron: "0 16 * * 0" 
+    - cron: "0 0 * * *"
 
   # 允许在GitHub页面手动触发
   workflow_dispatch:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
