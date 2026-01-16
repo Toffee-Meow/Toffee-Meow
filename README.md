@@ -1,21 +1,21 @@
 <p>
-<img align="right" src="https://count.getloli.com/@Toffee-Meow?name=Toffee-Meow&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Github主页访问人数统计" title="猫娘版Github主页访问人数统计" />
+<img align="right" src="https://count.getloli.com/@Toffee-Meow?name=Toffee-Meow&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Github主页访问人数统计" title="Github主页访问人数统计" />
 </p>
 
 # Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
 
 <p>
-<h3><a href="https://github.com/Toffee-Meow"><img align="left" src="image/hey.svg" alt="Hey，l'm Toffee Meow" title="动态文字"></a></h3>
+<h3><a href="https://github.com/Toffee-Meow"><img align="left" src="image/hey.svg" alt="Hey，l'm Toffee Meow" title="Hey，l'm Toffee Meow"></a></h3>
 </p>
 
 <br>
 
-- **一个热爱二维、三维相关设计制作的创作者**✨
+- **一个热爱二维、三维相关的设计与制作的创作者**✨
 
-- **喜欢平面排版、视频设计、三维渲染和TA技术美术**🌱
-<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%8A%99%E8%8A%99-alpha.png" alt="fufu" title="fufu" width="25%" />
+- **喜欢平面排版、视频设计、三维渲染，同时专注于 TA 技术美术方向**🌱
+<img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%8A%99%E8%8A%99-alpha.png" alt="可爱芙芙" title="可爱芙芙" width="25%" />
 
-- **目前特别喜欢研究TA技术美术，对角色三渲二相关的TA技术尤为钟爱 ദ്ദി˶>𖥦<)✧**🔥
+- **目前专注于研究技术美术方向，尤其偏爱三渲二领域中角色卡通渲染相关的技术 ദ്ദി˶>𖥦<)✧**🔥
 
 <p>
 <img src="https://github.com/user-attachments/assets/09845430-69f0-407a-a0bf-253f381d851d" alt="cat" title="cat gif" width="80" />
@@ -25,27 +25,22 @@
 &nbsp;<a href="https://space.bilibili.com/297246694"><img src="https://img.shields.io/badge/bilibili-%E7%85%BB_%E5%96%B5-FF69B4?logo=bilibili&logoColor=FF69B4&labelColor=191970" alt="bilibili" title="bilibili space" /></a>
 </p>
 
-### Github计分表⚡：
+### Github计分表 (｡•o•｡∩)⚡：
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="Toffee-Meow's GitHub stats" /></a>
-<!--
-[![Toffee-Meow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="煻喵的Github计分表" /></a>
 </p>
+
 <p>
 <img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%BF%B7%E8%BF%AD%E7%8C%AB%E7%8C%AB-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="36%" />
 </p>
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
-- **📜 [Shader魔法书](https://github.com/Toffee-Meow/Shader-Grimoire) 仓库持续更新中updating……**
-  - **该项目作为个人🍭远程代码仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader和自定义渲染管线**⭐
+- **📜 [Shader魔法书](https://github.com/Toffee-Meow/Shader-Grimoire) 仓库持续更新中Updating……**
+  - **该项目作为个人🍭Shader仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader和自定义渲染管线**⭐
 
 ### 技能爱好 >ᴗoಣ😍：
 <p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,unity,unreal,html,cs,cpp,py,vscode,rider,git,md,notion,obsidian,github&perline=7" alt="Tools and Languages" title="Tools and Languages" /></a>
-<!--
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,unity,unreal,c,cs,cpp,py,vscode,rider,git,md,notion,obsidian,github&perline=7)](https://skillicons.dev)
--->
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,unity,unreal,html,cs,cpp,py,vscode,rider,git,md,notion,obsidian,github&perline=7" alt="Tools and Languages" title="煻喵喜爱的技能" /></a>
 </p>
 
 ### 绘画作品 ੭ ᐕ)੭🐱：
@@ -59,7 +54,7 @@
     </blockquote>
     </p>
     <p align="center">
-    <img src="image/迷迭猫猫.png" alt="迷迭猫猫" title="迷迭猫猫" width="45%" /> <img src="image/Toffee Meow.png" alt="Toffee Meow" title="Toffee Meow" width="45%" />
+    <img src="image/迷迭猫猫.png" alt="迷迭猫猫" title="迷迭猫猫" width="45%" /> <img src="image/Toffee Meow.png" alt="糖果猫猫" title="糖果猫猫" width="45%" />
     </p>
 </details>
 </p>
@@ -70,6 +65,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake.svg" alt="Github个人主页贪吃蛇动画" title="Github个人主页贪吃蛇动画" />
+    <img src="https://raw.githubusercontent.com/Toffee-Meow/Toffee-Meow/output/github-snake.svg" alt="Github主页贪吃蛇动画" title="Github主页贪吃蛇动画" />
   </picture>
 </div>
