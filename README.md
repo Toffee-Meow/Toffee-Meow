@@ -36,7 +36,7 @@
 
 ### Github计划 ( ˶'ᵕ'˶)💡：
 - **📜 [Shader魔法书](https://github.com/Toffee-Meow/Shader-Grimoire) 仓库持续更新中Updating……**
-  - **该项目作为个人🍭Shader仓库，喜欢整理上传一些在各类游戏引擎当中玩过的Shader和自定义渲染管线**⭐
+  - **本仓库作为个人🍭技术美术（TA）学习成长记录，收录了我在游戏引擎中探索过的 Shader、打磨过的材质、调试过的灯光等内容**⭐
 
 ### 技能爱好 >ᴗoಣ😍：
 <p>
