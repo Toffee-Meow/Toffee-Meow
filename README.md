@@ -25,7 +25,7 @@
 &nbsp;<a href="https://space.bilibili.com/297246694"><img src="https://img.shields.io/badge/bilibili-%E7%85%BB_%E5%96%B5-FF69B4?logo=bilibili&logoColor=FF69B4&labelColor=191970" alt="bilibili" title="bilibili space" /></a>
 </p>
 
-### Github计分表 (｡•o•｡∩)⚡：
+### GitHub计分表 (｡•o•｡∩)⚡：
 <p>
 <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=Toffee-Meow&rank_icon=github&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="煻喵的Github计分表" /></a>
 </p>
@@ -34,7 +34,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Toffee-Meow/Image-Hosting-Repository/main/image/%E8%BF%B7%E8%BF%AD%E7%8C%AB%E7%8C%AB-alpha.png" alt="阔爱猫猫头" title="阔爱猫猫头" width="36%" />
 </p>
 
-### Github计划 ( ˶'ᵕ'˶)💡：
+### GitHub计划 ( ˶'ᵕ'˶)💡：
 - **📜 [Shader魔法书](https://github.com/Toffee-Meow/Shader-Grimoire) 仓库持续更新中Updating……**
   - **本仓库作为个人🍭技术美术（TA）学习成长记录，收录了我在游戏引擎中探索过的 Shader、打磨过的材质、调试过的灯光等内容**⭐
 
