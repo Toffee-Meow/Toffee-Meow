@@ -27,7 +27,7 @@
 
 ### Github计分表 (｡•o•｡∩)⚡：
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=Toffee-Meow&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="煻喵的Github计分表" /></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=Toffee-Meow&rank_icon=github&show_icons=true&theme=tokyonight" alt="Toffee-Meow's GitHub stats" title="煻喵的Github计分表" /></a>
 </p>
 
 <p>
