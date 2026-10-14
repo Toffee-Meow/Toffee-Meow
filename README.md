@@ -1,5 +1,5 @@
 <p>
-<img align="right" src="https://count.getloli.com/@Toffee-Meow?name=Toffee-Meow&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Github主页访问人数统计" title="Github主页访问人数统计" />
+<img align="right" src="https://count.getloli.com/@Toffee-Meow?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Github主页访问人数统计" title="Github主页访问人数统计" />
 </p>
 
 # Hi，我是 煻喵Toffee Meow (º﹃º ) 👋
